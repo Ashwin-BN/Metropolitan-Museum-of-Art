@@ -8,7 +8,7 @@
  *
  *  Name: Ashwin B N      Student ID: 112763222       Date: 05-12-2024
  *
- *  Vercel App (Deployed) Link:
+ *  Vercel App (Deployed) Link: https://metropolitan-museum-of-art.vercel.app/
  *   
  ********************************************************************************/
 import Col from "react-bootstrap/Col";
